@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1745950097 source:d:\multiple games in one\multiplegamesinone\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"BrickBreaker/BrickBreaker.h"
+	"PacMan/PacMan.h"
+	"SnakeGame/SnakeGame.h"
+	"FlappyBird/FlappyBird.h"
+
+1745949906 d:\multiple games in one\multiplegamesinone\brickbreaker\brickbreaker.h
+
+1745949929 d:\multiple games in one\multiplegamesinone\pacman\pacman.h
+
+1745948905 d:\multiple games in one\multiplegamesinone\snakegame\snakegame.h
+
+1745948880 d:\multiple games in one\multiplegamesinone\flappybird\flappybird.h
+
+1745948928 source:d:\multiple games in one\multiplegamesinone\brickbreaker\brickbreaker.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<string>
+	"BrickBreaker.h"
+
+1745948938 source:d:\multiple games in one\multiplegamesinone\flappybird\flappybird.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"FlappyBird.h"
+
+1745949563 source:d:\multiple games in one\multiplegamesinone\snakegame\snakegame.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	"SnakeGame.h"
+
+1745949924 source:d:\multiple games in one\multiplegamesinone\pacman\pacman.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<ctime>
+	"PacMan.h"
+
