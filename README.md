@@ -37,6 +37,10 @@ highscore.txt            Score storage
 MultipleGamesinOne.cbp   Code::Blocks project file
 ```
 
+## Requirements
+
+Windows and a Windows-targeting C++ compiler are required. The manual command uses MinGW-w64 `g++`; Code::Blocks also needs a configured compiler toolchain. Run from a writable directory for score storage.
+
 ## Getting Started
 
 ### Option 1: Open in Code::Blocks
@@ -59,7 +63,7 @@ Run the game hub:
 .\MultipleGamesinOne.exe
 ```
 
-## Notes
+## Platform support
 
 This project uses Windows-specific headers such as `windows.h` and `conio.h`, so it is intended for Windows terminals.
 
